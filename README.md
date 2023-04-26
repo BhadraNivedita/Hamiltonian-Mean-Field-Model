@@ -1,1 +1,1 @@
-# HMF
+# Hamiltonian Mean Field Model
