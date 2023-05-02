@@ -18,5 +18,6 @@ the equilibrium becomes very slow.
 
 The relaxation time of this quasistationary states (QSS) diverges with the system size.
 
-All the codes are available in this repository corresponding to the research paper Hamiltonian mean-field model: effect of temporal perturbation in coupling matrix authored by Nivedita Bhadra and Soumen K. Patra,  published in 2018  https://www.worldscientific.com/doi/abs/10.1142/S0217984918501476
+All the codes are available in this repository corresponding to the research paper Hamiltonian mean-field model: effect of temporal perturbation in coupling matrix authored by Nivedita Bhadra and Soumen K. Patra,  published in 2018.
+https://www.worldscientific.com/doi/abs/10.1142/S0217984918501476
 
