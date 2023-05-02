@@ -16,7 +16,6 @@ Prior to reaching its equilibrium state, the system presents several interesting
 For example, if "water bag" initial condition is chosen for the particles, the relaxation to
 the equilibrium becomes very slow.
 
-
 The relaxation time of this quasistationary states (QSS) diverges with the system size.
 
 All the codes are available in this repository corresponding to the research paper published in 2018  https://www.worldscientific.com/doi/abs/10.1142/S0217984918501476
